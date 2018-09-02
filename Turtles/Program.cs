@@ -2,11 +2,13 @@
 
 namespace Turtles
 {
-    class Program
+    public static class Program
     {
-        static void Main(string[] args)
+        public static void Main()
         {
-            Console.WriteLine("Hello World!");
+            // TODO: Prints "I like turtles." 1000 times.
+
+            Console.ReadLine();
         }
     }
 }
